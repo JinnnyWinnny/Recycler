@@ -1,0 +1,18 @@
+.container {
+  margin: 3rem;
+}
+.resource_title {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid black;
+}
+.context {
+  display: flex;
+  margin-top: 3rem;
+  justify-content: center;
+}
+.links {
+  margin-bottom: 1rem;
+}
+ol {
+  font-size: 1.5rem;
+}
