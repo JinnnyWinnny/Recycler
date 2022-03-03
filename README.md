@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Re Recycler</h1>
+<h1 align="center">Re Recycle (Object Detection)</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -12,24 +12,29 @@
   </ol>
 </details>
 
-  
-  
+  # placeholder
+  <figure>
+<img src="public/images/raspcam.jpg" width="50%">
+  <figcaption>Rascam connected to Raspberry Pi</figcaption>
+</figure>
   
 ## Project Description 
 
-# update here with some pictures!
+
+
+
+
+The project uese a Machine Learning model trained in Lobe to identify whether an object goes in the garbage or recylining. 
 
 
 
 The goal of this project is to make a cover that segregates trashes into recycle and non-recylce
-
-
-### Purpose
-
 	 
 
 
 <h2 align="center">Links</h2>
+<a href="https://www.lobe.ai/">Lobe: training model</a>
+<a href="https://www.kaggle.com/asdasdasasdas/garbage-classification">Garbage classification image set</a>
 
 
 
