@@ -2,8 +2,8 @@
   margin: 3rem;
 }
 .resource_title {
-  padding-bottom: 1rem;
-  border-bottom: 1px solid black;
+  /* padding-bottom: 1rem;
+  border-bottom: 1px solid black; */
 }
 .context {
   display: flex;
@@ -12,7 +12,5 @@
 }
 .links {
   margin-bottom: 1rem;
-}
-ol {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }

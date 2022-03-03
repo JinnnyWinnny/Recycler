@@ -1,12 +1,14 @@
 import React from "react";
 import "./Resources.css";
+import Slides from "../Slides";
 
 function Resources() {
   return (
     <>
+      <Slides />
       <div className="container">
         <div className="resource_title">
-          <h1>Resources</h1>
+          <h1>+</h1>
         </div>
         <div className="context">
           <ol>

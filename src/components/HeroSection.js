@@ -13,7 +13,7 @@ function HeroSection() {
         By putting non-recycled materials into the recycle bin, entire
         recyclables end up in landfills. <br />
         We created the machine <b>"Re-Recycler"</b> that{" "}
-        <u>segregates trashes automatically</u> for you.
+        <u>filers trashes automatically</u> for you.
         <br />
       </div>
       <div className="hero-btns">
