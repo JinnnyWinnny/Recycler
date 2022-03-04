@@ -7,16 +7,49 @@ export default function Progress() {
   return (
     <>
       <div className="progress">
-        <h1>Schematics / Drawings/ Photos</h1>
+        <h1>Timeline</h1>
         <div className="progress__container">
           <div className="progress__wrapper">
-            <ul className="progress__items">
-              {" "}
+            <ul>
+              <ProgressItems
+                src="images/cover.PNG"
+                title="Camera attached to Raspberry Pi"
+                content="First time we test every connected components "
+              />
+            </ul>
+            <ul>
               <ProgressItems
                 src="images/raspcam.jpg"
-                text="Camera attached to Raspberry Pi"
-                label="Raspberry Pi"
-                path=""
+                title="Camera attached to Raspberry Pi"
+                content="First time we test every connected components "
+              />
+            </ul>
+            <ul>
+              <ProgressItems
+                src="images/motorconnector.PNG"
+                title="Camera attached to Raspberry Pi"
+                content="First time we test every connected components "
+              />
+            </ul>
+            <ul>
+              <ProgressItems
+                src="images/laser.jpg"
+                title="Camera attached to Raspberry Pi"
+                content="First time we test every connected components "
+              />
+            </ul>
+            <ul>
+              <ProgressItems
+                src="images/soldering.jpg"
+                title="Camera attached to Raspberry Pi"
+                content="First time we test every connected components "
+              />
+            </ul>
+            <ul>
+              <ProgressItems
+                src="images/firstTest.jpg"
+                title="Camera attached to Raspberry Pi"
+                content="Raspberry Pi"
               />
             </ul>
           </div>

@@ -32,6 +32,11 @@ function Resources() {
                 Connecting a stepper motor to the Raspberry Pi
               </a>
             </li>
+            <li className="links">
+              <a href="https://www.the-diy-life.com/connect-and-program-an-oled-stats-display-for-your-raspberry-pi/">
+                Connect and Program An OLED
+              </a>
+            </li>
           </ol>
         </div>
       </div>
