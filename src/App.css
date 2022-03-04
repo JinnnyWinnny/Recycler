@@ -19,7 +19,7 @@
 }
 
 .aboutus {
-  background-image: url("./imgs/img-2.jpg");
+  /* background-image: url("./imgs/img-2.jpg"); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -28,7 +28,7 @@
 }
 
 .resources {
-  background-image: url("./imgs/img-8.jpg");
+  /* background-image: url("./imgs/img-8.jpg"); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

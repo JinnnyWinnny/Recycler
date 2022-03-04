@@ -35,6 +35,18 @@ function Cards() {
               label="Laser Cutting"
               path=""
             />
+            <CardItem
+              src="images/soldering.jpg"
+              text="PCB Soldering"
+              label="Soldering"
+              path=""
+            />
+            <CardItem
+              src="images/firstTest.jpg"
+              text="First Testing"
+              label="test"
+              path=""
+            />
           </ul>
         </div>
       </div>
