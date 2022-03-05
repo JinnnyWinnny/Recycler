@@ -8,7 +8,10 @@ function HeroSection() {
     <div className="hero-container">
       <video src="/videos/video-1.mp4" autoPlay loop muted />
       <h1>RE-RECYCLER</h1>
-      <h2> Department of Environment, Health and Safety</h2>
+      <h2 className="dep-container">
+        {" "}
+        Department of Environment, Health and Safety
+      </h2>
       <div className="detail-container">
         By putting non-recycled materials into the recycle bin, entire
         recyclables end up in landfills. <br />

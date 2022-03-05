@@ -48,6 +48,26 @@ function Cards() {
               path=""
             />
           </ul>
+          <ul className="cards__items">
+            <CardItem
+              src="images/components.jpg"
+              text="Connecting all the components"
+              label="test"
+              path=""
+            />
+            <CardItem
+              src="images/components.jpg"
+              text="Connecting all the components"
+              label="test"
+              path=""
+            />
+            <CardItem
+              src="images/components.jpg"
+              text="Connecting all the components"
+              label="test"
+              path=""
+            />
+          </ul>
         </div>
       </div>
 
