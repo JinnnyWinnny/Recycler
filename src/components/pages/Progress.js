@@ -13,29 +13,29 @@ export default function Progress() {
             <ul>
               <ProgressItems
                 src="images/cover.PNG"
-                title="Camera attached to Raspberry Pi"
-                content="First time we test every connected components "
+                title="3D design of the cover with a tilting board"
+                content="It is 3D design that we made for schematics. The cover is lasercutted and made of cardboard. We glued each side and screwed the tilting board which is a gray color on the cover.  "
               />
             </ul>
             <ul>
               <ProgressItems
                 src="images/raspcam.jpg"
                 title="Camera attached to Raspberry Pi"
-                content="First time we test every connected components "
+                content="First time we connected RasCam to the Raspberry Pi"
               />
             </ul>
             <ul>
               <ProgressItems
                 src="images/motorconnector.PNG"
-                title="Camera attached to Raspberry Pi"
-                content="First time we test every connected components "
+                title="Clamp"
+                content="It is 3D design that we made for schematics. The clamp is 3d printed, and it is for supporting and controlling the board."
               />
             </ul>
             <ul>
               <ProgressItems
                 src="images/laser.jpg"
-                title="Camera attached to Raspberry Pi"
-                content="First time we test every connected components "
+                title="Front Cover"
+                content="Engraving the front cover of the cover with laser cutting"
               />
             </ul>
             <ul>
