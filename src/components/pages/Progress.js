@@ -52,6 +52,34 @@ export default function Progress() {
                 content="Raspberry Pi"
               />
             </ul>
+            <ul>
+              <ProgressItems
+                src="images/finalModel.jpg"
+                title="Testing plastic bottle"
+                content="First time we test every connected components "
+              />
+            </ul>
+            <ul>
+              <ProgressItems
+                src="images/finalModel2.jpg"
+                title="Final model"
+                content="First time we test every connected components "
+              />
+            </ul>
+            <ul>
+              <ProgressItems
+                src="images/components.jpg"
+                title="Camera attached to Raspberry Pi"
+                content="First time we test every connected components "
+              />
+            </ul>
+            <ul>
+              <ProgressItems
+                src="images/finalCover.PNG"
+                title="Camera attached to Raspberry Pi"
+                content="First time we test every connected components "
+              />
+            </ul>
           </div>
         </div>
       </div>

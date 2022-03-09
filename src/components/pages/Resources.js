@@ -37,6 +37,9 @@ function Resources() {
                 Connect and Program An OLED
               </a>
             </li>
+            <li className="links">
+              <a href="https://www.lobe.ai/">Tool for training model</a>
+            </li>
           </ol>
         </div>
       </div>
