@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "../App.css";
 import { Button } from "./Button";
 import "./HeroSection.css";
@@ -20,21 +21,25 @@ function HeroSection() {
         <br />
       </div>
       <div className="hero-btns">
-        <Button
-          className="btns"
-          buttonStyle="btn--outline"
-          buttonSize="btn--large"
-        >
-          EXPLORE PROJECT
-        </Button>
-        <Button
-          className="btns"
-          buttonStyle="btn--primary"
-          buttonSize="btn--large"
-          onClick={console.log("hey")}
-        >
-          WATCH DEMO <i className="far fa-play-circle" />
-        </Button>
+        <Link to="/progress">
+          <Button
+            className="btns"
+            buttonStyle="btn--outline"
+            buttonSize="btn--large"
+          >
+            EXPLORE PROJECT
+          </Button>
+        </Link>
+        <a href="https://drive.google.com/file/d/1vMk5w3I8OSNKYPxmU-8SyktwbAC_AjER/view?usp=sharing">
+          <Button
+            className="btns"
+            buttonStyle="btn--primary"
+            buttonSize="btn--large"
+            onClick={console.log("hey")}
+          >
+            WATCH DEMO <i className="far fa-play-circle" />
+          </Button>
+        </a>
       </div>
     </div>
   );

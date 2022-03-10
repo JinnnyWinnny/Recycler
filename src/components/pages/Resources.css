@@ -1,5 +1,5 @@
 .container {
-  margin: 3rem;
+  margin: 2rem;
 }
 .resource_title {
   /* padding-bottom: 1rem;
@@ -7,7 +7,7 @@
 }
 .context {
   display: flex;
-  margin-top: 3rem;
+  margin-top: 2rem;
   justify-content: center;
 }
 .links {

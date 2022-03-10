@@ -22,10 +22,10 @@ function Cards() {
               path="https://docs.google.com/presentation/d/10jpqM3j-W-gWmSYrnJA8jhWykLoClki836LT1Y3BlXg/edit?usp=sharing"
             />
             <CardItem
-              src="images/presentation.PNG"
-              text="Video Demo (placeholder)"
+              src="images/video.PNG"
+              text="Video Demo "
               label="video"
-              path="https://docs.google.com/presentation/d/1FD9vm2g0ozdwQPquaFUaz787kgxOEuA8f43Ged4e36c/edit?usp=sharing"
+              path="https://drive.google.com/file/d/1vMk5w3I8OSNKYPxmU-8SyktwbAC_AjER/view?usp=sharing"
             />
           </ul>
         </div>
