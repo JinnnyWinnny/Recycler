@@ -75,7 +75,7 @@ export default function Progress() {
             </ul>
             <ul>
               <ProgressItems
-                src="images/finalCover.PNG"
+                src="images/finalCover.png"
                 title="Wooden Case"
                 content="The wooden case was designed with some additional pieces required to avoid gaps in the back side. Our constraint of physical wood pieces available led us to covering part of two trash bins but it is still big enough to dispose of trash with no problem. "
               />
