@@ -25,7 +25,7 @@ function Cards() {
 
           <ul className="cards__items">
             <CardItem
-              src="images/finalCover.PNG"
+              src="images/finalCover.png"
               text="Wooden Case"
               label="case"
               path=""
