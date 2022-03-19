@@ -1,54 +1,25 @@
 
 
-<h1 align="center">Re Recycle (Object Detection)</h1>
+<h1 align="center">Re-Recycle (Object Detection)</h1>
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#project-description">Project Description</a></li>
-    <li><a href="#contribution">Contribution</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+  <p align="center">
+	<a href="https://drive.google.com/file/d/1vMk5w3I8OSNKYPxmU-8SyktwbAC_AjER/view"><b>View Demo</b></a><br>
+	<a href="https://ece-re-recycler.web.app/"><b>Project Website</b></a>
 
-  # placeholder
+  </p>
+<br><br>
+
   <figure>
-<img src="public/images/raspcam.jpg" width="50%">
-  <figcaption>Rascam connected to Raspberry Pi</figcaption>
+<img src="public/images/finalModel.jpg" width="50%">
+  <figcaption>Model of Re-Recycler</figcaption>
 </figure>
-  
-## Project Description 
 
-
-
-
+  <h2 align="center">Project Description </h2>
 
 The project uese a Machine Learning model trained in Lobe to identify whether an object goes in the garbage or recylining. 
-
-
-
-The goal of this project is to make a cover that segregates trashes into recycle and non-recylce
+The goal of this project is to make a cover that segregates trashes into recyclable and non-recylcable.
 	 
 
-
-<h2 align="center">Links</h2>
-<a href="https://www.lobe.ai/">Lobe: training model</a>
-<a href="https://www.kaggle.com/asdasdasasdas/garbage-classification">Garbage classification image set</a>
-
-
-
-
-
-<h2 align="center">Contribution</h2>
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <h2 align="center">Contact</h2>
 
